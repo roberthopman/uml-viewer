@@ -4,6 +4,11 @@ All notable changes are documented here. The format is based on [Keep a Changelo
 
 ## [Unreleased]
 
+## [0.1.3] - 2026-11-01
+
+### Added
+- A middle-button drag pans the diagram. The cursor shows a closed hand while you pan. The pan stays active when the browser releases the pointer outside the window.
+
 ### Changed
 - A single click on a class opens its card. Before, the card opened on a double-click. A double-click on a box still opens its view.
 
